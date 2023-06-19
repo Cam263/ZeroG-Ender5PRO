@@ -1,4 +1,4 @@
-nano /home/biqu/printer_data/config/autocommit.sh
+cnano /home/biqu/printer_data/config/autocommit.sh
 #!/bin/bash
 
 #######################################################################
